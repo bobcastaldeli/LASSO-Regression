@@ -1,2 +1,3 @@
 # LASSO-Regression
-Implementation of LASSO Regression Algorithm
+
+Esse repositório é um projeto de aprendizado de máquina onde, é feita a implementação do algoritmo Regressão de LASSO do zero.
