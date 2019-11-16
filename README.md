@@ -4,10 +4,16 @@ Este é um projeto de aprendizado de máquina end-to-end onde, foi desenvolvida 
 
 # Requirimentos
 
-  Python 3.8;
-  Numpy;
-  Scipy;
-  Pandas;
-  Matplotlib;
-  Seaborn;
-  Scikit Learn;
+  Python 3.8
+  
+  Numpy
+  
+  Scipy
+  
+  Pandas
+  
+  Matplotlib
+  
+  Seaborn
+  
+  Scikit Learn
