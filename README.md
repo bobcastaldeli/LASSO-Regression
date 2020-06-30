@@ -1,19 +1,19 @@
-# LASSO-Regression
+# Implementação do Algoritmo Regressão de LASSO via Coordinate Descent
 
-Este é um projeto de aprendizado de máquina end-to-end onde, foi desenvolvida uma análise do conjunto de dados de preços de imóveis da cidade de Boston, logo depois feita a implementação do algoritmo Regressão de LASSO do zero.
 
-# Requirimentos
+Este é um projeto de aprendizado de máquina end-to-end onde, foi desenvolvida uma análise do conjunto de dados de preços de imóveis da cidade de [Boston](https://www.kaggle.com/c/boston-housing), logo depois feita a implementação do algoritmo Regressão de LASSO do zero, via Coordinate Descent.
 
-  Python 3.8
-  
-  Numpy
-  
-  Scipy
-  
-  Pandas
-  
-  Matplotlib
-  
-  Seaborn
-  
-  Scikit Learn
+Para este projeto foram utilizados os seguintes pacotes:
+
+* **Análise e manipulação de dados**
+	* Numpy;
+	* Pandas;
+	* Pingouin;
+
+* **Visualização de Dados**
+	* Matplotlib;
+	* Seaborn;
+	* Yellowbrick;
+
+* **Métricas de Avaliação**
+	* Scikit-Learn;
