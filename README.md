@@ -13,7 +13,6 @@ Para este projeto foram utilizados os seguintes pacotes:
 * **Visualização de Dados**
 	* Matplotlib;
 	* Seaborn;
-	* Yellowbrick;
 
 * **Métricas de Avaliação**
 	* Scikit-Learn;
